@@ -20,9 +20,9 @@ This project is successfully done using convolutional neural network and showed 
 
 
 ## Contributors
-1. Md. Mezbah Uddin (2016-13-28)
-2. Atiquzzaman Rana (2016-13-27)
-3. Rahat Akhand (2016-13-01)
+1. Md. Mezbah Uddin 
+2. Atiquzzaman Rana 
+3. Rahat Akhand 
 
 ## Instructor
 Md. Mynoddin, Lecturer, Department of Computer Science and Engineering, Rangamati Science and Technology University
