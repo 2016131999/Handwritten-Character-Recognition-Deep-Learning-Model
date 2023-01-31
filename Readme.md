@@ -25,7 +25,4 @@ This project is successfully done using convolutional neural network and showed 
 3. Rahat Akhand (2016-13-01)
 
 ## Instructor
-Md. Mynoddin
-Lecturer
-Department of Computer Science and Engineering
-Rangamati Science and Technology University
+Md. Mynoddin, Lecturer,Department of Computer Science and Engineering, Rangamati Science and Technology University
